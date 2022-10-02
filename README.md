@@ -1,3 +1,3 @@
 # community-connect
 
-URL: https://community-talks.web.app/login
+URL: https://community-talks.web.app/
